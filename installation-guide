@@ -1,0 +1,13 @@
+Installation Guide 
+
+1. Download Zip Folder containing code. 
+
+2. Install required libraries
+
+    pip install sys
+    
+3. To run the main loop of the program, run main.py
+
+4. To test classes, run Date.py or Cycle.py
+
+5. werewolf_input.txt, Date.py, Cycle.py and Main.py should all be in the same folder 
